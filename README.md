@@ -1,2 +1,2 @@
 # yash
-yash repo
+yash repo for capg
